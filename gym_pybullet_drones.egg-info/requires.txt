@@ -1,0 +1,6 @@
+numpy
+Pillow
+matplotlib
+cycler
+gym
+pybullet
