@@ -3,6 +3,6 @@
 ------------------------------------------
 
 # Steps to install 
--1-clone the repo /n
--2-open the repo local folder and type "pip install -e."
--3-if numpy shows error then type "pip install numpy==1.19.0
+-Clone the repo /n
+-Open the repo local folder and type "pip install -e."
+-If numpy shows error then type "pip install numpy==1.19.0
